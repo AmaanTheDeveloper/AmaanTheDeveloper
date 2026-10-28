@@ -1,151 +1,266 @@
-# Rao Amaan | Full-Stack Developer
+<!-- ==================== PREMIUM PROFILE HEADER ==================== -->
 
-<p align="center">
-  <strong>Full-Stack Web Developer | Building E-commerce, SaaS & Scalable Web Applications</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/AmaanTheDeveloper">
-    <img src="https://img.shields.io/badge/GitHub-AmaanTheDeveloper-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:raoamaana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:22D3EE&height=220&section=header&text=Rao%20Amaan&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SAAS%20%7C%20WEB%20APPLICATIONS&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Rao Amaan profile banner"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Reality.;Building+E-commerce+%26+SaaS+Applications.;Developing+Modern+Full-Stack+Solutions.;Learn.+Build.+Improve.+Repeat." alt="Typing animation"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/AmaanTheDeveloper">
+  <img src="https://img.shields.io/badge/GitHub-AmaanTheDeveloper-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:raoamaana@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/AmaanTheDeveloper?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AmaanTheDeveloper&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Web Developer focused on building modern web applications, SaaS platforms, and e-commerce solutions.
+```php
+<?php
 
-I enjoy developing functional, database-driven applications, creating user-friendly interfaces, and solving real-world problems through software.
+namespace AmaanAfzal;
+
+class Developer
+{
+    public string $name = "Rao Amaan";
+    public string $role = "Full-Stack Developer";
+    public string $location = "Karachi, Pakistan";
+
+    public array $focus = [
+        "Full-Stack Web Development",
+        "SaaS Applications",
+        "E-commerce Solutions",
+        "Business Applications",
+    ];
+
+    public array $technologies = [
+        "Laravel",
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "React",
+        "Bootstrap",
+    ];
+
+    public function mindset(): string
+    {
+        return "Learn. Build. Improve. Repeat.";
+    }
+}
+```
+
+I'm a developer focused on building modern web applications that combine useful functionality, thoughtful design, and reliable backend systems.
+
+My goal is to turn ideas into practical software — from e-commerce platforms and SaaS products to applications that solve real-world problems.
 
 - 🎓 Studying software development at Aptech Learning.
-- 💻 Working with Laravel, PHP, MySQL, and modern frontend technologies.
-- 🚀 Interested in SaaS products, e-commerce platforms, and business applications.
-- 🧩 Focused on application functionality, database design, and maintainable code.
-- 🤝 Open to collaborations, learning opportunities, and suitable junior developer roles.
-- 📍 Karachi, Pakistan.
+- 🏗️ Building full-stack applications and database-driven systems.
+- ⚙️ Working with Laravel, PHP, MySQL, and frontend technologies.
+- 🔐 Interested in authentication, APIs, database design, and application architecture.
+- 🤝 Open to collaboration, learning opportunities, and suitable junior developer roles.
 
-**Current Goal:** Continue growing as a Full-Stack Developer by building practical, reliable, and scalable web applications.
+---
+
+## 💼 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Development
+
+- Laravel & PHP applications
+- MVC architecture
+- REST API integration
+- Authentication and authorization
+- Database-driven functionality
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Development
+
+- Responsive web interfaces
+- HTML, CSS & JavaScript
+- Bootstrap-based layouts
+- React frontend applications
+- Interactive user experiences
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 SaaS & Business Software
+
+- User roles and dashboards
+- Subscription workflows
+- Certificate management
+- Business process automation
+- Application management systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Applications
+
+- Product catalogues
+- Shopping cart and checkout
+- Order management
+- Payment proof workflows
+- Admin dashboards
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react" alt="Frontend technologies">
-</p>
+<div align="center">
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend technologies">
-</p>
+### Frontend
 
-`MVC` · `REST APIs` · `Blade` · `Eloquent ORM` · `Authentication`
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react" alt="Frontend technologies"/>
 
-### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,npm,vite" alt="Database and development tools">
-</p>
+### Backend
 
-`XAMPP` · `Composer` · `Database Migrations` · `Version Control`
+<img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend technologies"/>
+
+### Database & Development Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman,npm,vite" alt="Database and development tools"/>
+
+<br/>
+
+`MySQL` · `Eloquent ORM` · `Blade` · `Livewire` · `Composer` · `XAMPP`
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. Pebbles — E-commerce Platform
+### 01 — ElectroCert | Testing & Certification SaaS
 
-A full-stack e-commerce application built with a Laravel backend and React frontend.
+A SaaS platform designed to digitize device testing and certification workflows.
 
-**Key Features**
-- Product browsing and shopping cart functionality
-- Checkout and order creation
-- Payment proof submission and order tracking
-- Admin dashboard and order management
-
-**Technologies:** Laravel · PHP · React · MySQL · Sanctum
-
-[View Repository →](https://github.com/AmaanTheDeveloper/Pebbles)
-
----
-
-### 02. ElectroCert — Testing & Certification SaaS
-
-A SaaS application designed to digitize device testing and certification workflows.
-
-**Key Features**
 - Device testing and certification management
 - Certificate generation and verification
 - Subscription plans and simulated payment workflows
-- Role-based access for administrators, engineers, and users
+- Role-based dashboards and access control
 
-**Technologies:** Laravel 12 · PHP · Livewire · MySQL
+**Stack:** Laravel 12 · PHP · Livewire · MySQL
 
-[View Repository →](https://github.com/AmaanTheDeveloper/ElectroCert)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmaanTheDeveloper/ElectroCert)
 
 ---
 
-### 03. NextCampus — Campus Platform
+### 02 — Pebbles | E-commerce Platform
 
-A campus-focused web platform connecting students, teachers, companies, and campus communities.
+A full-stack e-commerce application combining a Laravel backend with a React frontend.
 
-**Key Features**
+- Product browsing and shopping cart
+- Checkout and order creation
+- Payment proof submission and order tracking
+- Administrative dashboard and order management
+
+**Stack:** Laravel · PHP · React · MySQL · Sanctum
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmaanTheDeveloper/Pebbles)
+
+---
+
+### 03 — NextCampus | Campus Platform
+
+A campus-focused application connecting students, teachers, companies, and campus communities.
+
 - Role-based portals and dashboards
-- Internship and competition listings
+- Internships and competitions
 - Scholarships, events, and learning resources
 - Application approvals and social login
 
-**Technologies:** Laravel 12 · PHP · Livewire · MySQL
+**Stack:** Laravel 12 · PHP · Livewire · MySQL
 
-[View Repository →](https://github.com/AmaanTheDeveloper/nextcampus)
-
----
-
-### 04. Age Calculator — Web Utility
-
-A lightweight web application that calculates age from a date of birth and supports PDF export.
-
-**Technologies:** HTML · CSS · JavaScript · jsPDF
-
-[View Repository →](https://github.com/AmaanTheDeveloper/AgeCalculator)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmaanTheDeveloper/nextcampus)
 
 ---
 
-## 📊 GitHub Statistics
+### 04 — Age Calculator | Web Utility
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmaanTheDeveloper&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanTheDeveloper&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
-</p>
+A simple web application for calculating age from a date of birth, with PDF export functionality.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmaanTheDeveloper&hide_border=true&theme=transparent" alt="GitHub contribution streak">
-</p>
+**Stack:** HTML · CSS · JavaScript · jsPDF
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmaanTheDeveloper/AgeCalculator)
 
 ---
 
-## 💡 Developer Mindset
+## 📊 GitHub Analytics
 
-> Understand the problem. Build the solution. Keep improving.
+<div align="center">
 
-I believe great software combines thoughtful problem-solving, clean implementation, and a clear understanding of user needs.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmaanTheDeveloper&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
 
-My focus is on learning through practical projects and continuously improving my development skills.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanTheDeveloper&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AmaanTheDeveloper&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 💭 Developer Philosophy
+
+<div align="center">
+
+### "Turning ideas into reality, one line of code at a time."
+
+*Great software isn't just about writing code. It's about solving problems, simplifying complexity, and creating something useful.*
+
+<br/>
+
+**Think Clearly. Build Smartly. Keep Improving.**
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to connecting with developers, collaborating on interesting projects, and exploring opportunities to build useful software.
+<div align="center">
 
-- **GitHub:** [AmaanTheDeveloper](https://github.com/AmaanTheDeveloper)
-- **Email:** [raoamaana@gmail.com](mailto:raoamaana@gmail.com)
-- **Location:** Karachi, Pakistan
+Have an interesting project idea, want to collaborate, or simply talk about development? Feel free to connect.
 
-<p align="center">
-  <i>Building today. Learning every day. Improving with every project.</i>
-</p>
+<a href="https://github.com/AmaanTheDeveloper">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="mailto:raoamaana@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-0F766E?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
+<br/><br/>
+
+*Building today. Learning every day. Creating better solutions for tomorrow.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:22D3EE&height=110&section=footer" width="100%" alt="Footer banner"/>
+
+</div>
